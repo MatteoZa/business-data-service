@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "name": "Le Café du Marché",
+    "address": "Rue de Conthey 17, 1950 Sion",
+    "openingHours": {
+      "TUESDAY": [
+        {
+          "start": "11:30",
+          "end": "15:00"
+        },
+        {
+          "start": "18:30",
+          "end": "00:00"
+        }
+      ],
+      "WEDNESDAY": [
+        {
+          "start": "11:30",
+          "end": "15:00"
+        },
+        {
+          "start": "18:30",
+          "end": "00:00"
+        }
+      ],
+      "THURSDAY": [
+        {
+          "start": "11:30",
+          "end": "15:00"
+        },
+        {
+          "start": "18:30",
+          "end": "00:00"
+        }
+      ],
+      "FRIDAY": [
+        {
+          "start": "11:30",
+          "end": "15:00"
+        },
+        {
+          "start": "18:30",
+          "end": "00:00"
+        }
+      ],
+      "SATURDAY": [
+        {
+          "start": "18:00",
+          "end": "00:00"
+        }
+      ],
+      "SUNDAY": [
+        {
+          "start": "11:30",
+          "end": "15:00"
+        }
+      ]
+    }
+  },
+  {
+    "id": 2,
+    "name": "Casa Ferlin",
+    "address": "Stampfenbachstrasse 38, 8006 Zürich",
+    "openingHours": {
+      "MONDAY": [
+        {
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ],
+      "TUESDAY": [
+        {
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ],
+      "WEDNESDAY": [
+        {
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ],
+      "THURSDAY": [
+        {
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ],
+      "FRIDAY": [
+        {
+          "start": "11:30",
+          "end": "14:00"
+        },
+        {
+          "start": "18:30",
+          "end": "22:00"
+        }
+      ]
+    }
+  }
+]
